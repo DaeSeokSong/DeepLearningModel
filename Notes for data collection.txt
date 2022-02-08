@@ -1,0 +1,1 @@
+1. Don't collect data with overlapping values as learning data because they cannot be normalized
