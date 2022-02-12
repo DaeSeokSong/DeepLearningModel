@@ -1,1 +1,2 @@
 1. Don't collect data with overlapping values as learning data because they cannot be normalized
+ㄴ Except data formed 0 or 1
